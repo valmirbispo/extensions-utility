@@ -7,7 +7,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Authors>Valmir Bispo</Authors>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Description>This pack is intended to help you with basic everyday tasks. These are extension methods that will be of great value to your project.</Description>
     <PackageProjectUrl>https://github.com/valmirbispo/extensions-utility</PackageProjectUrl>
     <PackageIcon>icone-extensions.png</PackageIcon>
@@ -25,6 +25,7 @@
     <None Include="icone-extensions.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 
