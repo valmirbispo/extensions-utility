@@ -3,15 +3,15 @@
   <PropertyGroup>
     <!--<TargetFramework>net6.0</TargetFramework>-->
     <TargetFramework>netstandard2.0</TargetFramework>
-    <RootNamespace>vfb_extensions_utility</RootNamespace>
+    <RootNamespace>ExtensionsUtility</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Authors>valmirbispo</Authors>
-    <Version>1.0.0</Version>
+    <Authors>Valmir Bispo</Authors>
+    <Version>1.0.1</Version>
     <Description>This pack is intended to help you with basic everyday tasks. These are extension methods that will be of great value to your project.</Description>
-    <PackageProjectUrl>https://github.com/valmirbispo/vfb-extensions-utility</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/valmirbispo/extensions-utility</PackageProjectUrl>
     <PackageIcon>icone-extensions.png</PackageIcon>
-    <RepositoryUrl>https://github.com/valmirbispo/vfb-extensions-utility</RepositoryUrl>
+    <RepositoryUrl>https://github.com/valmirbispo/extensions-utility</RepositoryUrl>
     <PackageTags>IsNull;IsEmpty</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <LangVersion>preview</LangVersion>

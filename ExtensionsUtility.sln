@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vfb-extensions-utility", "vfb-extensions-utility.csproj", "{46B95C53-41D3-4C9D-BE51-6318050BB9AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionsUtility", "ExtensionsUtility.csproj", "{46B95C53-41D3-4C9D-BE51-6318050BB9AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
