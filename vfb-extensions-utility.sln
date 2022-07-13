@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vfb-extensions-utility", "vfb-extensions-utility.csproj", "{46B95C53-41D3-4C9D-BE51-6318050BB9AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46B95C53-41D3-4C9D-BE51-6318050BB9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B95C53-41D3-4C9D-BE51-6318050BB9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B95C53-41D3-4C9D-BE51-6318050BB9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B95C53-41D3-4C9D-BE51-6318050BB9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7F2A580-9DB1-495A-8905-074433E4B808}
+	EndGlobalSection
+EndGlobal
