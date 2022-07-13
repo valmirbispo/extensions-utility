@@ -5,6 +5,12 @@
     <RootNamespace>vfb_extensions_utility</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Authors>valmirbispo</Authors>
+    <Version>1.0.0</Version>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="System.Text\" />
+  </ItemGroup>
 
 </Project>
