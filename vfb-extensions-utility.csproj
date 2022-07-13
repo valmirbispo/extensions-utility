@@ -1,16 +1,31 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <!--<TargetFramework>net6.0</TargetFramework>-->
+    <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>vfb_extensions_utility</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Authors>valmirbispo</Authors>
     <Version>1.0.0</Version>
+    <Description>This pack is intended to help you with basic everyday tasks. These are extension methods that will be of great value to your project.</Description>
+    <PackageProjectUrl>https://github.com/valmirbispo/vfb-extensions-utility</PackageProjectUrl>
+    <PackageIcon>icone-extensions.png</PackageIcon>
+    <RepositoryUrl>https://github.com/valmirbispo/vfb-extensions-utility</RepositoryUrl>
+    <PackageTags>IsNull;IsEmpty</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <LangVersion>preview</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
     <Folder Include="System.Text\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\Users\272345.MGR\Desktop\Temp\icone-extensions.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
